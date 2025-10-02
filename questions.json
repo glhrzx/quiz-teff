@@ -1,0 +1,308 @@
+[
+  {
+    "question": "Maria, grávida de 5 meses, preocupa-se com a proteção dos direitos do seu futuro bebê. O marido de Maria, pai da criança, está hospitalizado em quadro de saúde gravíssimo e a relação de Maria com a família do seu marido não é harmoniosa. A afirmação que melhor reflete a situação do nascituro é:",
+    "choice1": "nascituro goza de proteção jurídica;",
+    "choice2": "nascituro tem personalidade civil plena;",
+    "choice3": "nascituro não é titular de direitos subjetivos;",
+    "choice4": "embrião e nascituro têm o mesmo tratamento legal;",
+    "choice5": "material genético humano congelado é um nascituro.",
+    "answer": 1
+  },
+  {
+    "question": "Renata deu à luz sua filha Mariza, que, em razão de má formação na gestação, sobreviveu por algumas horas e veio a falecer pouco depois do parto. Sobre os fatos narrados, verifica-se que, com o nascimento:",
+    "choice1": "com vida, Mariza adquiriu personalidade, titularizou direitos e, ao morrer, seus genitores a sucederão nos eventuais interesses.",
+    "choice2": "inviável, Mariza é considerada natimorta, portanto, não adquiriu personalidade, nem titularizou direitos.",
+    "choice3": "com vida, Mariza adquiriu capacidade de direito, mas não titularizou direitos subjetivos e, ao morrer, não haveria potencial sucessão.",
+    "choice4": "inviável, Mariza é considerada natimorta, embora lhe seja conferida personalidade e capacidade de direito.",
+    "choice5": "com vida, Mariza adquiriu personalidade, mas, em razão da inviabilidade, não adquiriu capacidade de direito.",
+    "answer": 1
+  },
+  {
+    "question": "Jorge tem 16 anos e casou-se civilmente. Marcelo, com apenas 17 anos, é um prodígio, pois já cursa o terceiro ano do curso de graduação em medicina. Júlia, com 17 anos, já tem um emprego de sucesso como programadora em uma famosa pessoa jurídica, a ponto de receber o suficiente para se sustentar sem a ajuda de ninguém. Diante da situação hipotética apresentada, é (são) absolutamente capaz(es):",
+    "choice1": "Jorge, apenas.",
+    "choice2": "Jorge e Júlia, apenas.",
+    "choice3": "Marcelo, apenas.",
+    "choice4": "Marcelo e Júlia, apenas.",
+    "choice5": "Jorge, Marcelo e Júlia.",
+    "answer": 1
+  },
+  {
+    "question": "Felipe, brasileiro nato, casado, estudante, 16 anos de idade; Renata, brasileira nata, solteira, servidora pública efetiva, 17 anos de idade; e Valter, brasileiro naturalizado, viúvo, aposentado, 83 anos de idade, resolveram constituir uma associação. Entre os três, a capacidade para exercer pessoalmente os atos da vida civil encontra-se em:",
+    "choice1": "Valter, apenas.",
+    "choice2": "Felipe e Valter, apenas.",
+    "choice3": "Renata e Valter, apenas.",
+    "choice4": "Felipe e Renata, apenas.",
+    "choice5": "Felipe, Renata e Valter.",
+    "answer": 3
+  },
+  {
+    "question": "Júlio, de 19 anos de idade, nasceu com uma deficiência física que causa cegueira. Ele está cursando Medicina e faz estágio em uma clínica médica. Sendo assim, Júlio é:",
+    "choice1": "Capaz, mas poderá valer-se da figura de apoiadores para lhe auxiliarem na prática dos atos da vida civil.",
+    "choice2": "Capaz, mas a lei obriga a presença de pelo menos dois apoiadores para que seus atos negociais tenham validade.",
+    "choice3": "É relativamente incapaz e deve ser assistido por apoiadores na prática dos atos da vida civil.",
+    "choice4": "É relativamente incapaz e deve ser submetido ao regime da curatela.",
+    "choice5": "É absolutamente incapaz para exercer os atos da vida civil.",
+    "answer": 1
+  },
+  {
+    "question": "Arnaldo tem 21 anos e é pródigo. Bruna tem 95 anos e, por causa permanente, não é capaz de exprimir sua vontade, Cláudia tem 16 anos e é casada. Daniel tem 15 anos e é viciado em tóxico. De acordo com o Código Civil:",
+    "choice1": "apenas Arnaldo, Bruna e Cláudia são relativamente incapazes.",
+    "choice2": "todos eles são relativamente incapazes.",
+    "choice3": "todos eles são absolutamente incapazes.",
+    "choice4": "apenas Arnaldo e Bruna são relativamente incapazes.",
+    "choice5": "apenas Bruna e Daniel são absolutamente incapazes.",
+    "answer": 5
+  },
+  {
+    "question": "João se tornou órfão de ambos os pais no dia 01 de junho de 2017, colou grau em curso de ensino superior no dia 02 de julho de 2017, entrou em exercício de emprego público efetivo no dia 03 de agosto de 2017, casou-se no dia 04 de setembro de 2017 e completou dezoito anos de idade no dia 05 de outubro de 2017. Nesse caso, de acordo com o Código Civil, a incapacidade de João cessou no dia:",
+    "choice1": "1 de junho de 2017.",
+    "choice2": "3 de agosto de 2017.",
+    "choice3": "2 de julho de 2017.",
+    "choice4": "5 de outubro de 2017.",
+    "choice5": "4 de setembro de 2017.",
+    "answer": 2
+  },
+  {
+    "question": "De acordo com o Código Civil, considere: I. O direito de sucessão aberta. II. As energias que tenham valor econômico. III. Os materiais provisoriamente separados de um prédio, para nele se reempregarem. IV. Os direitos pessoais de caráter patrimonial e respectivas ações. São considerados bens móveis para efeitos legais:",
+    "choice1": "III e IV, apenas.",
+    "choice2": "I e III, apenas.",
+    "choice3": "II, III e IV, apenas.",
+    "choice4": "I e II, apenas.",
+    "choice5": "II e IV, apenas.",
+    "answer": 3
+  },
+  {
+    "question": "Dentre a classificação dos bens considerados em si mesmo, o direito à sucessão aberta é:",
+    "choice1": "bem imóvel por disposição legal.",
+    "choice2": "bem móvel para efeitos legais.",
+    "choice3": "bem semovente conforme a sua natureza.",
+    "choice4": "bem móvel ou imóvel segundo a sua natureza.",
+    "choice5": "",
+    "answer": 2
+  },
+  {
+    "question": "Considera-se bem imóvel para os efeitos legais o(a):",
+    "choice1": "direito pessoal de caráter patrimonial e as respectivas ações.",
+    "choice2": "direito à sucessão aberta.",
+    "choice3": "energia que tenha valor econômico.",
+    "choice4": "material destinado a alguma construção, enquanto não for empregado.",
+    "choice5": "",
+    "answer": 2
+  },
+  {
+    "question": "Avalie se, de acordo com o Código Civil, são considerados bens móveis para os efeitos legais: I. As energias que tenham valor econômico. II. Os direitos reais sobre objetos móveis e as ações correspondentes. III. Os direitos pessoais de caráter patrimonial e respectivas ações. IV. As edificações que, separadas do solo, mas conservando a sua unidade, forem removidas para outro local. Estão corretos os itens:",
+    "choice1": "I, II e III, apenas.",
+    "choice2": "I, III e IV, apenas.",
+    "choice3": "II, III e IV, apenas.",
+    "choice4": "II e III, apenas.",
+    "choice5": "I, II, III e IV.",
+    "answer": 5
+  },
+  {
+    "question": "Consideram-se bens imóveis, para os efeitos legais:",
+    "choice1": "As energias que tenham valor econômico.",
+    "choice2": "As ações que asseguram os direitos pessoais de caráter patrimonial.",
+    "choice3": "Os bens naturalmente indivisíveis.",
+    "choice4": "As ações que asseguram os direitos reais sobre imóveis.",
+    "choice5": "",
+    "answer": 4
+  },
+  {
+    "question": "Acerca do Código Civil, assinale a alternativa INCORRETA.",
+    "choice1": "São móveis os bens suscetíveis de movimento próprio, ou de remoção por força alheia, sem alteração da substância ou da destinação econômico-social.",
+    "choice2": "Consideram-se móveis para os efeitos legais as energias que tenham valor econômico.",
+    "choice3": "Perdem o caráter de imóveis os materiais provisoriamente separados de um prédio, para nele se reempregarem.",
+    "choice4": "Consideram-se móveis para os efeitos legais os direitos reais sobre objetos móveis e as ações correspondentes.",
+    "choice5": "Consideram-se móveis para os efeitos legais os direitos pessoais de caráter patrimonial e respectivas ações.",
+    "answer": 3
+  },
+  {
+    "question": "São considerados bens fungíveis:",
+    "choice1": "os móveis que podem substituir-se por outros da mesma espécie, qualidade e quantidade.",
+    "choice2": "os bens móveis cujo uso importa destruição imediata da própria substância, sendo também considerados tais os destinados à alienação.",
+    "choice3": "os que se podem fracionar sem alteração na sua substância, diminuição considerável de valor, ou prejuízo do uso a que se destinam.",
+    "choice4": "os que, embora reunidos, se consideram de per si, independentemente dos demais.",
+    "choice5": "aqueles que existem sobre si, abstrata ou concretamente.",
+    "answer": 1
+  },
+  {
+    "question": "Os bens móveis cujo uso importa destruição imediata da própria substância, sendo também considerados tais os destinados à alienação, são classificados como bens:",
+    "choice1": "singulares.",
+    "choice2": "fungíveis.",
+    "choice3": "consumíveis.",
+    "choice4": "infungíveis.",
+    "choice5": "",
+    "answer": 3
+  },
+  {
+    "question": "Com relação aos bens é correto afirmar que:",
+    "choice1": "são considerados fungíveis os bens que possuem um valor imaterial agregado –a exemplo de joias de família ou de um determinado animal reprodutor –e infungíveis aqueles bens que podem ser substituídos por outro da mesma espécie quantidade e qualidade, como, em regra, os alimentos.",
+    "choice2": "enquadram-se na classificação de inconsumíveis os bens cuja comercialização é proibida por lei, enquanto os consumíveis são aqueles negociáveis no mercado.",
+    "choice3": "a vida, no que se refere à sua classificação, é considerada bem corpóreo, haja vista depender de um organismo (corpo) para sua existência.",
+    "choice4": "as benfeitorias úteis são aquelas destinadas à conservação do bem, ou a evitar a deterioração deste.",
+    "choice5": "não só em decorrência de lei, mas também em razão da vontade das partes, pode-se tornar indivisível um determinado bem que seja, por sua natureza, divisível.",
+    "answer": 5
+  },
+  {
+    "question": "De acordo com a classificação dos bens elencadas no Código Civil, assinale a alternativa INCORRETA.",
+    "choice1": "O solo e tudo quanto lhe incorpore natural ou artificialmente são bens imóveis.",
+    "choice2": "Considera-se imóvel por força de lei os direitos reais sobre imóveis e as ações que os assegurem.",
+    "choice3": "Perdem o caráter de imóvel os materiais definitivamente separados de um prédio, que não serão reempregadas.",
+    "choice4": "Segundo o princípio da gravitação jurídica, em regra, os bem acessórios seguem o principal.",
+    "choice5": "Os bens naturalmente divisíveis podem tornar-se indivisíveis exclusivamente por lei que assim os estabeleça.",
+    "answer": 5
+  },
+  {
+    "question": "Acerca das benfeitorias, assinale a alternativa correta.",
+    "choice1": "São voluptuárias as de mero deleite ou recreio, que não aumentam o uso habitual do bem, ainda que o tornem mais agradável ou sejam de elevado valor.",
+    "choice2": "São benfeitorias os bens que, não constituindo partes integrantes, se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.",
+    "choice3": "São necessárias as que aumentam ou facilitam o uso do bem.",
+    "choice4": "São úteis as que têm por fim conservar o bem ou evitar que se deteriore.",
+    "choice5": "São benfeitorias os melhoramentos ou acréscimos sobrevindos ao bem sem a intervenção do proprietário, possuidor ou detentor.",
+    "answer": 1
+  },
+  {
+    "question": "Eduarda, artista plástica, montou seu ateliê em um sobrado que recebeu de herança de sua avó paterna. Ela produz esculturas que coloca à venda para os visitantes do ateliê, feitas em madeira e pintadas à mão, nunca produzindo uma peça idêntica a outra anterior. As esculturas são revestidas de um verniz que lhes confere grande durabilidade. De acordo com o Direito Civil Brasileiro, é correto classificar as esculturas produzidas por Eduarda como:",
+    "choice1": "bens infungíveis e consumíveis;",
+    "choice2": "bens infungíveis e pertenças do sobrado;",
+    "choice3": "bens consumíveis e acessórios do sobrado;",
+    "choice4": "bens fungíveis e não consumíveis;",
+    "choice5": "bens não consumíveis e pertenças do sobrado.",
+    "answer": 1
+  },
+  {
+    "question": "Pedro comprou um carro usado de seu vizinho, com a intenção de presentear seu filho João, que completara a maioridade civil. Pedro ficou satisfeito com o veículo, inclusive porque verificou que a ele havia sido acoplado um rastreador móvel, o qual seria relevante, na opinião de Pedro, para a segurança de João. Foi celebrado o contrato de compra e venda do automóvel, contudo, ao receber o bem, Pedro verificou que o rastreador fora retirado do veículo. Ao questionar o vendedor sobre a retirada do equipamento, Pedro foi informado de que a aquisição do equipamento não havia sido convencionada. Tendo como referência essa situação hipotética, assinale a opção correta com base no entendimento do STJ.",
+    "choice1": "O rastreador constitui parte integrante do veículo e deve acompanhá-lo na negociação da venda.",
+    "choice2": "Por ser o rastreador considerado um bem naturalmente divisível, não se presume a sua inclusão na negociação do veículo.",
+    "choice3": "O rastreador é um bem acessório e deve acompanhar o veículo, bem principal, independentemente de previsão contratual nesse sentido.",
+    "choice4": "O rastreador é considerado uma benfeitoria necessária e, por essa razão, presume-se a sua inclusão na negociação do veículo.",
+    "choice5": "Por ser o rastreador considerado pertença, não se presume a sua inclusão na negociação do veículo.",
+    "answer": 3
+  },
+  {
+    "question": "Qualquer que seja o valor da transação, é desnecessária escritura pública para alienar ou ceder:",
+    "choice1": "o direito à sucessão aberta pela morte de alguém;",
+    "choice2": "um prédio de cinco andares ainda não totalmente construído;",
+    "choice3": "vasta plantação de árvores, durante a transferência de uma fazenda para outra diante de iminente risco de destruição;",
+    "choice4": "energia solar;",
+    "choice5": "vitrais e portas desenhados por importante artista, temporariamente retirados de um casarão durante uma reforma para nela se reempregarem posteriormente quando as obras acabarem.",
+    "answer": 4
+  },
+  {
+    "question": "Antônio Balduino celebrou contrato de locação residencial com Gabriela Bala, pelo prazo de trinta meses. Gabriela, locatária, realizou diversas obras no bem, com destaque para: a reforma do encanamento da cozinha, que se encontrava com infiltrações e comprometiam a segurança do imóvel; a troca do cabeamento da casa, tornando mais útil a internet, visto que ela trabalha em home office; a construção de uma piscina para o lazer de seus filhos; e a alteração da pintura externa do bem, que se encontrava em perfeito estado, transformando o imóvel na casa da Barbie, sonho da locatária, embelezando o imóvel e valorizando-o em cinquenta por cento, conforme corretores de imóveis da região. O contrato de locação prevê que as benfeitorias realizadas pela locatária serão indenizadas, independentemente de autorização prévia, salvo as voluptuárias. Diante da situação hipotética, a respeito do tema benfeitorias, assinale a afirmativa correta.",
+    "choice1": "A construção da piscina e a troca do cabeamento da casa são consideradas benfeitorias úteis, porque aumentam a utilização do bem.",
+    "choice2": "Apesar da valorização do imóvel em cinquenta por cento, a alteração da pintura externa é considerada benfeitoria voluptuária.",
+    "choice3": "Todas as benfeitorias realizadas na situação narrada no enunciado devem ser indenizadas, com exceção da construção da piscina, por ser voluptuária.",
+    "choice4": "A reforma do encanamento da cozinha é considerada como benfeitoria útil, visto que facilita a utilização do bem.",
+    "choice5": "As benfeitorias descritas no enunciado devem ser indenizadas pelo locador, salvo a troca do cabeamento da casa.",
+    "answer": 2
+  },
+  {
+    "question": "O Código Civil traz que principal é o bem que existe sobre si, abstrata ou concretamente; acessório, aquele cuja existência supõe a do principal, assim sobre bens assinale a alternativa correta:",
+    "choice1": "São pertenças os bens que, não constituindo partes integrantes, se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.",
+    "choice2": "Os negócios jurídicos que dizem respeito ao bem principal abrangem as pertenças, salvo se o contrário resultar da lei, da manifestação de vontade, ou das circunstâncias do caso.",
+    "choice3": "São úteis as de mero deleite ou recreio, que não aumentam o uso habitual do bem, ainda que o tornem mais agradável ou sejam de elevado valor.",
+    "choice4": "As benfeitorias só podem ser úteis e necessárias.",
+    "choice5": "",
+    "answer": 1
+  },
+  {
+    "question": "Túlio e Tina, recém-casados, compram um imóvel antigo em sua cidade natal para servir como sua nova residência, mas antes de se mudarem, em razão de uma inspeção realizada por empresa de engenharia especializada que indicou que todo o encanamento e a parte elétrica do imóvel estavam muito comprometidos, implicando risco elevado, contratam a empresa Reparo Certo Ltda. para a realização de algumas obras. Assim, a empresa Reparo Certo Ltda. envia Paulo, um funcionário antigo e muito experiente para a realização da troca do encanamento e restauração de toda a parte elétrica da casa, além da troca do piso da cozinha e reforma do banheiro para instalação de uma banheira de hidromassagem. Paulo, em seu quinto dia de trabalho no imóvel de Túlio e Tina, furou uma parede errada, acertando um cano e gerando um grande vazamento que inundou toda a casa, estragando o piso da sala e os armários embutidos do quarto. Se não bastasse, ao tentar parar o vazamento, Paulo tropeçou em alguns azulejos raros que haviam sido retirados da cozinha para posterior instalação no banheiro, bem como quebrou os azulejos novos que tinham sido comprados para instalação na cozinha. Considerando a situação hipotética narrada e a disciplina da classificação dos bens no Código Civil, é correto afirmar que:",
+    "choice1": "a troca do encanamento e a restauração da parte elétrica configuram benfeitorias necessárias e a instalação da banheira de hidromassagem configura benfeitoria útil.",
+    "choice2": "os azulejos raros que haviam sido retirados da cozinha são bens imóveis e infungíveis.",
+    "choice3": "os azulejos novos, ainda não instalados, e o piso da sala são bens imóveis e fungíveis.",
+    "choice4": "a troca do encanamento e a restauração da parte elétrica configuram benfeitorias úteis e a instalação da banheira de hidromassagem configura benfeitoria voluptuária.",
+    "choice5": "os azulejos raros que haviam sido retirados da cozinha e os azulejos novos são bens móveis, sendo os primeiros infungíveis.",
+    "answer": 5
+  },
+  {
+    "question": "O Código Civil Brasileiro dispõe que os bens públicos são aqueles de domínio nacional, pertencentes às pessoas jurídicas de direito público interno e os classifica de acordo com suas características e destinações. Um prédio onde funciona o arquivo público municipal e uma quadra poliesportiva de uso comunitário são exemplos, respectivamente, de bens:",
+    "choice1": "de uso especial e de uso comum;",
+    "choice2": "de uso especial e de uso especial;",
+    "choice3": "de uso comum e de uso especial;",
+    "choice4": "dominicais e de uso especial;",
+    "choice5": "dominicais e de uso comum.",
+    "answer": 1
+  },
+  {
+    "question": "De acordo com o Código Civil, as praças, ruas e estradas classificam-se como:",
+    "choice1": "Bens privados coletivamente considerados.",
+    "choice2": "Bens privados difusamente considerados.",
+    "choice3": "Bens públicos de uso comum do povo.",
+    "choice4": "Bens públicos de uso especial.",
+    "choice5": "Bens públicos dominicais.",
+    "answer": 3
+  },
+  {
+    "question": "Sobre a classificação dos bens públicos, nos termos do artigo 99 do Código Civil, assinale a alternativa que contempla a definição do bem público em que se enquadram 'as ruas e as praças'.",
+    "choice1": "Dominicais.",
+    "choice2": "Voluptuário.",
+    "choice3": "De uso comum do povo.",
+    "choice4": "De uso especial.",
+    "choice5": "",
+    "answer": 3
+  },
+  {
+    "question": "Os bens públicos são aqueles bens que compõe o patrimônio público, o qual é formado pela diversidade de bens que interessam a administração. Determinado Município pretende alienar alguns bens. Os bens que a Administração Pública pode alienar são os classificados como:",
+    "choice1": "Uso comum.",
+    "choice2": "Uso especial.",
+    "choice3": "Dominical.",
+    "choice4": "Uso extraordinário.",
+    "choice5": "Domínio público.",
+    "answer": 3
+  },
+  {
+    "question": "De acordo com a Lei 10.406/2002, que institui o código civil, são bens públicos: I - Os de uso comum do povo, tais como rios, mares, estradas, ruas e praças; II - Os de uso especial, tais como edifícios ou terrenos destinados a serviço ou estabelecimento da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias; III - Os dominicais, que constituem o patrimônio das pessoas jurídicas de direito público, como objeto de direito pessoal, ou real, de cada uma dessas entidades. Sendo assim, sobre bens públicos, assinale a alternativa INCORRETA:",
+    "choice1": "Os bens públicos não estão sujeitos a usucapião.",
+    "choice2": "Os bens públicos dominicais não podem ser alienados.",
+    "choice3": "O uso comum dos bens públicos pode ser gratuito ou retribuído, conforme for estabelecido legalmente pela entidade a cuja administração pertencerem.",
+    "choice4": "Os bens públicos de uso comum do povo e os de uso especial são inalienáveis, enquanto conservarem a sua qualificação, na forma que a lei determinar.",
+    "choice5": "",
+    "answer": 2
+  },
+  {
+    "question": "O Município de Cianorte determinou que a utilização de um parque municipal, destinado à recreação da população, deverá ser remunerada pelos visitantes. É correto determinar que o parque é bem:",
+    "choice1": "De uso comum do povo, sendo a cobrança de remuneração aos visitantes indevida.",
+    "choice2": "De uso especial, sendo a cobrança de remuneração aos visitantes indevida.",
+    "choice3": "Dominical, sendo a cobrança de remuneração aos visitantes indevida.",
+    "choice4": "De uso comum do povo, podendo o Município determinar a cobrança aos visitantes.",
+    "choice5": "De uso dominical, podendo o Município determinar a cobrança aos visitantes.",
+    "answer": 4
+  },
+  {
+    "question": "Considerando as disposições do Código Civil, bem como os conceitos ligados aos bens públicos, assinale a alternativa INCORRETA:",
+    "choice1": "Os bens públicos dominicais são inalienáveis.",
+    "choice2": "Os bens públicos não estão sujeitos a usucapião.",
+    "choice3": "São bens públicos os de uso comum do povo, tais como rios, mares, estradas, ruas e praças.",
+    "choice4": "São bens públicos os de uso especial, tais como edifícios ou terrenos destinados a serviço ou estabelecimento da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias.",
+    "choice5": "",
+    "answer": 1
+  },
+  {
+    "question": "Conforme o Código Civil, assinale a alternativa correta.",
+    "choice1": "Os bens públicos de uso comum do povo e os de uso especial são inalienáveis, enquanto conservarem a sua qualificação, na forma que a lei determinar.",
+    "choice2": "Os bens públicos dominicais não podem ser alienados.",
+    "choice3": "Os bens públicos estão sujeitos a usucapião.",
+    "choice4": "São bens públicos os dominicais, tais como edifícios ou terrenos destinados a serviço ou estabelecimento da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias.",
+    "choice5": "São bens públicos os de uso especial, que constituem o patrimônio das pessoas jurídicas de direito público, como objeto de direito pessoal, ou real, de cada uma dessas entidades.",
+    "answer": 1
+  },
+  {
+    "question": "O Código Civil Brasileiro dispõe que os bens públicos são aqueles de domínio nacional, pertencentes às pessoas jurídicas de direito público interno e os classifica de acordo com suas características e destinações. Acerca dos bens públicos, analise as afirmações a seguir: I) Os bens públicos de uso especial são inalienáveis. II) Os bens públicos dominicais podem ser alienados. III) O uso dos bens públicos de uso comum deve ser gratuito. É correto o que se afirma apenas em:",
+    "choice1": "I;",
+    "choice2": "II;",
+    "choice3": "III;",
+    "choice4": "I e II;",
+    "choice5": "II e III;",
+    "answer": 2
+  },
+  {
+    "question": "Observe os bens listados nos itens abaixo e, em seguida, assinale a alternativa correta: I. Rios e mares. II. Praças. III. Prédio onde funciona uma unidade básica de saúde. IV. Terreno de propriedade de um Município. V. Estradas.",
+    "choice1": "I e IV são bens de uso comum do povo.",
+    "choice2": "I, II e V são bens de uso comum do povo.",
+    "choice3": "III e IV são bens de uso especial.",
+    "choice4": "IV e V são bens dominicais.",
+    "choice5": "Apenas V é de uso comum do povo.",
+    "answer": 2
+  }
+]

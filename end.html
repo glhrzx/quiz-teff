@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/app.css">
+    <title>Parabéns Teffinhah!!</title>
+    <style>
+        /* Resultados */
+        #results {
+            margin-top: 2rem;
+            width: 100%;
+            max-width: 40rem;
+        }
+        .result-item {
+            background-color: #ffffff;
+            color: #34495e;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            word-wrap: break-word;
+        }
+        .correct-answer {
+            color: #28a745;
+            font-weight: bold;
+        }
+        .wrong-answer {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        @media (max-width: 600px){
+            .result-item {
+                font-size: 1.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container flex-center flex-column">
+        <h1 id="finalScore">0</h1>
+        <form>
+            <input 
+                type="text" 
+                name="username" 
+                id="username"
+                placeholder="Digite o perfil de placar" 
+            />
+            <button 
+                type="submit" 
+                class="btn" 
+                id="saveScoreBtn" 
+                onclick="saveHighScore(event)" 
+                disabled
+            >
+                Salvar
+            </button>
+        </form>
+        <a class="btn" href="game">Jogar novamente</a>
+        <a class="btn" href="/">Voltar ao Início</a>
+
+        <div id="results"></div>
+    </div>
+
+    <script src="js/end.js"></script>
+</body>
+</html>
