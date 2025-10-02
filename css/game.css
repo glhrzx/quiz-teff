@@ -1,0 +1,140 @@
+/* ==================== CHOICES ==================== */
+.choice-container{
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: clamp(1.2rem, 4vw, 1.8rem);
+    border: 0.1rem solid rgba(86,165,235,0.25);
+    background-color: white;
+    border-radius: 8px;
+    flex-wrap: wrap;
+}
+
+.choice-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86,158,235,0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.choice-prefix{
+    padding: 1rem 2rem;
+    background-color: #1e90ff;
+    color: #ffffff;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.choice-text{
+    padding: 1rem;
+    width: 100%;
+    line-height: 1.4;
+    word-wrap: break-word;
+    hyphens: auto;
+    white-space: pre-wrap;
+}
+
+/* cores de acerto/erro */
+.correct{
+    background-color: #28a745;
+}
+.incorrect{
+    background-color: #dc3545;
+}
+
+/* ==================== HUD ==================== */
+#hud{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: clamp(1.4rem, 4vw, 2rem);
+}
+.hud-main-text{
+    text-align: center;
+    font-size: clamp(1.6rem, 4vw, 2rem);
+}
+
+/* ==================== PROGRESS BAR ==================== */
+#progressBar{
+    width: 100%;
+    max-width: 20rem;
+    height: 2rem;
+    border: 0.3rem solid #ffffff;
+    margin-top: 1rem; 
+    border-radius: 8px;
+}
+#progressBarFull{
+    height: 100%;
+    background-color: #1e90ff;
+    width: 0%;
+    border-radius: 8px;
+}
+
+/* ==================== LOADER ==================== */
+#loader{
+    border: 1.6rem solid white;
+    border-radius: 50%;
+    border-top: 1.6rem solid #1e90ff;
+    width: 8rem;
+    height: 8rem;
+    animation: spin 2s linear infinite;
+    margin: 0 auto;
+}
+@keyframes spin {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+/* ==================== QUESTÃO ==================== */
+#question{
+    font-size: clamp(1.4rem, 4vw, 2rem);
+    line-height: 1.5;
+    margin-bottom: 2rem;
+    word-wrap: break-word;
+    hyphens: auto;
+    white-space: pre-wrap;
+}
+
+/* ==================== MEDIA QUERIES ==================== */
+@media (max-width: 600px) {
+    .choice-container{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .choice-prefix{
+        padding: 0.5rem 1rem;
+        margin-bottom: 0.5rem;
+    }
+    .choice-text{
+        padding: 0.5rem;
+        font-size: 1.2rem;
+    }
+    #progressBar{
+        height: 1.5rem;
+    }
+    #progressBarFull{
+        height: 100%;
+    }
+    #loader{
+        width: 6rem;
+        height: 6rem;
+        border-width: 1.2rem;
+    }
+    #hud{
+        flex-direction: column;
+        align-items: center;
+    }
+    #question{
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+    }
+}
